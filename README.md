@@ -11,3 +11,7 @@ I want many green cell.
 + chart.js自定义
 + github主页的规划
 + xia-hu.com网站的规划，即社区系统的建设。
+
+##一个错误
+fork的repo，然后加入文件，使用 git push；
+返回403;地址URL指向我fork的项目地址，所以产生错误。
