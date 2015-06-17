@@ -2,3 +2,11 @@
 测试是否直接就将改动推送到远端了。
 
 那么每次都要先add 再 commit  然后push？
+
+
+
+
+
+2.
+添加多个rpo 
+   git remote add 
