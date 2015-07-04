@@ -10,3 +10,6 @@
 2.
 添加多个rpo 
    git remote add 
+
+
+看GIT BOOK 慢慢来，有问题就解决。
